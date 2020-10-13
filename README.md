@@ -1,1 +1,1 @@
-# coare_to_fine_organsegmentation
+# C2F_OrganSegmentation
